@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hugo-vast" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-vast" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10967401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10967401" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/beeleethebee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beeleethebee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@beeleethebee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beeleethebee" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Just_The_V" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="beeleethebee" height="30" width="40" /></a>
 </p>
 
