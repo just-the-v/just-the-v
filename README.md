@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer" alt="Typing SVG" /></a></h3>
 
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2f343f" alt="Jokes Card" />
-</div>
+- 🔭 I’m currently working at [Wecasa](https://www.wecasa.fr)
+
+- 🌱 I’m currently learning **how to launch SaaS**
+
+- 💬 Ask me about **Ruby and Rails**
+
+
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=nord&no-frame=true" alt="just-the-v trophies" />
@@ -13,18 +18,12 @@
 &nbsp;
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://linkedin.com/in/hugo-vast" target="blank">
-    <img align="center" src="./linkedin-icon" alt="linkedin icon" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/10967401" target="blank">
-    <img align="center" src="./stackoverlfow-icon" alt="stackoverflow icon" height="30" width="40" />
-  </a>
-  <a href="https://www.reddit.com/user/Just_The_V" target="blank">
-    <img align="center" src="./reddit-icon" alt="reddit icon" height="30" width="40" />
-  </a>
-  </div>
-
+<p align="left">
+<a href="https://linkedin.com/in/hugo-vast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-vast" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10967401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10967401" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/beeleethebee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beeleethebee" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Just_The_V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="beeleethebee" height="30" width="40" /></a>
+</p>
 &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,11 +34,13 @@
 &nbsp;
 
 <h3 align="left">Github stats:</h3>
-### todo
 
 | ------------- | ------------- |
 
-<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-the-v&theme=nord&hide_border=true&" alt="scalabw"/></div>
 
-&nbsp;
+<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2f343f" alt="Jokes Card" /></div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-the-v&show_icons=true&locale=en&layout=compact" alt="just-the-v" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-the-v&" alt="just-the-v" /></p>
 
