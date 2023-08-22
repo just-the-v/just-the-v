@@ -14,13 +14,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-<a href="https://linkedin.com/in/hugo-vast" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/just-the-v/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/10967401" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/just-the-v/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow icon" height="30" width="40" />
-</a>
-</div>
+  <a href="https://linkedin.com/in/hugo-vast" target="blank">
+    <img align="center" src="./linkedin-icon" alt="linkedin icon" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/10967401" target="blank">
+    <img align="center" src="./stackoverlfow-icon" alt="stackoverflow icon" height="30" width="40" />
+  </a>
+  <a href="https://www.reddit.com/user/Just_The_V" target="blank">
+    <img align="center" src="./reddit-icon" alt="reddit icon" height="30" width="40" />
+  </a>
+  </div>
 
 &nbsp;
 
