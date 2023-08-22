@@ -12,11 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hugo-vast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-vast" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10967401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10967401" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/beeleethebee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beeleethebee" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Just_The_V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="beeleethebee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hugo-vast" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-vast" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10967401" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10967401" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/beeleethebee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beeleethebee" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Just_The_V" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="beeleethebee" height="30" width="40" /></a>
 </p>
+
 &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,13 +29,12 @@
 
 <h3 align="left">Github stats:</h3>
 
-| ------------- | ------------- |
 
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=dracula&column=-1" alt="just-the-v trophies" />
-  </a> 
-</div>
+
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=dracula&row=1" alt="just-the-v trophies" />
+  </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-the-v&show_icons=true&locale=en&layout=compact" alt="just-the-v" /></p>
