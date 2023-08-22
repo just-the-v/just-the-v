@@ -32,7 +32,7 @@
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=dracula" alt="just-the-v trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=dracula&column=-1" alt="just-the-v trophies" />
   </a> 
 </div>
 
