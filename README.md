@@ -29,7 +29,7 @@
 
 <h3 align="left">Github stats:</h3>
 
-<div style="diplay: flex; >
+<div style="diplay: flex;" >
   <p><img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=dracula&row=1" alt="just-the-v trophies" /></p>
   &nbsp;
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-the-v&show_icons=true&locale=en&layout=compact" alt="just-the-v" /></p>
