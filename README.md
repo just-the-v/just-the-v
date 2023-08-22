@@ -6,14 +6,7 @@
 - 🌱 I’m currently learning **how to launch SaaS**
 
 - 💬 Ask me about **Ruby and Rails**
-
-
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=nord&no-frame=true" alt="just-the-v trophies" />
-  </a> 
-</div>
+<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2f343f" alt="Jokes Card" /></div>
 
 &nbsp;
 
@@ -37,8 +30,12 @@
 
 | ------------- | ------------- |
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=nord&no-frame=true" alt="just-the-v trophies" />
+  </a> 
+</div>
 
-<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2f343f" alt="Jokes Card" /></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-the-v&show_icons=true&locale=en&layout=compact" alt="just-the-v" /></p>
 
