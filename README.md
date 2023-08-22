@@ -30,14 +30,14 @@
 
 | ------------- | ------------- |
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=nord&no-frame=true" alt="just-the-v trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=dracula" alt="just-the-v trophies" />
   </a> 
 </div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-the-v&show_icons=true&locale=en&layout=compact" alt="just-the-v" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-the-v&" alt="just-the-v" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=just-the-v&" alt="just-the-v" /></p>
 
