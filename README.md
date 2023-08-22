@@ -31,6 +31,4 @@
 
   <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=dracula&row=1" alt="just-the-v trophies" /></p>
   &nbsp;
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-the-v&show_icons=true&locale=en&layout=compact" alt="just-the-v" /></p>
-  &nbsp;
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-the-v&" alt="just-the-v" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-the-v&theme=dracula" alt="just-the-v" /></p>
