@@ -27,7 +27,8 @@
 
 &nbsp;
 
-<h3 align="left">My last 3 articles:</h3>
+<h3 align="left">My last 5 articles:</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Stop this, use this instead : Top 5 best practices in Ruby to reduce &quot;if&quot; in your code](https://dev.to/justthev/stop-this-use-this-instead-top-5-best-practices-in-ruby-to-reduce-if-in-your-code-2hfj)
 - [Pimp My Code : Come and Clean Code with V #1](https://dev.to/justthev/pimp-my-code-come-and-clean-code-with-v-1-3c4p)
