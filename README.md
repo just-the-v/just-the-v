@@ -27,8 +27,6 @@
 
 &nbsp;
 
-<h3 align="left">Github stats:</h3>
-
-  <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=just-the-v&theme=dracula&row=1" alt="just-the-v trophies" /></p>
-  &nbsp;
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-the-v&theme=dracula" alt="just-the-v" /></p>
+<h3 align="left">My last 3 articles:</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
