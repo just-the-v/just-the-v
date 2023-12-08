@@ -20,13 +20,6 @@
 
 &nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img align="center" src="https://skillicons.dev/icons?i=ruby,rails,redis,bots,docker,heroku,firebase,gcp,git,github,gitlab,mysql,postgres,sqlite,postman,stackoverflow,discord,solidity,bash,c,vue,vite,react,tailwind,html,js,css&theme=dark" alt="skills" /> 
-</div>
-
-&nbsp;
-
 <h3 align="left">My last 5 articles:</h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -36,3 +29,10 @@
 - [Turbocharge Your Rails App: A Comprehensive Guide to Async Queries](https://dev.to/justthev/turbocharge-your-rails-app-a-comprehensive-guide-to-async-queries-28a8)
 - [Mastering Linters : A Code Quality Assurance Comprehensive Guide using Ruby on Rails](https://dev.to/justthev/mastering-linters-a-code-quality-assurance-comprehensive-guide-using-ruby-on-rails-5aa2)
 <!-- BLOG-POST-LIST:END -->
+
+&nbsp;
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img align="center" src="https://skillicons.dev/icons?i=ruby,rails,redis,bots,docker,heroku,firebase,gcp,git,github,gitlab,mysql,postgres,sqlite,postman,stackoverflow,discord,solidity,bash,c,vue,vite,react,tailwind,html,js,css&theme=dark" alt="skills" /> 
+</div>
