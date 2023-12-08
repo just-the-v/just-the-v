@@ -1,0 +1,18 @@
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every hour from 10 through 23 on Wednesday.
+    - cron: "0 10-23 * * 3"
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/justthev"
+          # Maximum number of posts you want
+          max_post_count: 5
