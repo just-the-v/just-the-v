@@ -25,11 +25,11 @@
 <h3 align="left">My last 5 articles:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Chain of Responsibility implementations that will make you fall in love with this pattern](https://dev.to/justthev/3-chain-of-responsibility-implementations-that-will-make-you-fall-in-love-with-this-pattern-2kfa)
 - [Stop this, use this instead : Top 5 best practices in Ruby to reduce &quot;if&quot; in your code](https://dev.to/justthev/stop-this-use-this-instead-top-5-best-practices-in-ruby-to-reduce-if-in-your-code-2hfj)
 - [Pimp My Code : Come and Clean Code with V #1](https://dev.to/justthev/pimp-my-code-come-and-clean-code-with-v-1-3c4p)
 - [Mastering Monadical Syntax in Ruby: A Practical Guide to Functional Elegance](https://dev.to/justthev/mastering-monadical-syntax-in-ruby-a-practical-guide-to-functional-elegance-1c0g)
 - [Turbocharge Your Rails App: A Comprehensive Guide to Async Queries](https://dev.to/justthev/turbocharge-your-rails-app-a-comprehensive-guide-to-async-queries-28a8)
-- [Mastering Linters : A Code Quality Assurance Comprehensive Guide using Ruby on Rails](https://dev.to/justthev/mastering-linters-a-code-quality-assurance-comprehensive-guide-using-ruby-on-rails-5aa2)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
