@@ -25,11 +25,11 @@
 <h3 align="left">My last 5 articles:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
 - [What is the fastest way to remove data using Rails ?](https://dev.to/justthev/speed-vs-security-navigating-data-deletion-strategies-in-rails-1a1k)
 - [The Simplest Guide on Ruby Methods Arguments](https://dev.to/justthev/the-simplest-guide-on-ruby-methods-arguments-25pk)
 - [3 Chain of Responsibility implementations that will make you fall in love with this pattern](https://dev.to/justthev/3-chain-of-responsibility-implementations-that-will-make-you-fall-in-love-with-this-pattern-2kfa)
 - [Stop this, use this instead : Top 5 best practices in Ruby to reduce &quot;if&quot; in your code](https://dev.to/justthev/stop-this-use-this-instead-top-5-best-practices-in-ruby-to-reduce-if-in-your-code-2hfj)
-- [Pimp My Code : Come and Clean Code with V #1](https://dev.to/justthev/pimp-my-code-come-and-clean-code-with-v-1-3c4p)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
