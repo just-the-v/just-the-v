@@ -25,11 +25,11 @@
 <h3 align="left">My last 5 articles:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Binary Decision Tree in Ruby ? Say hello to Composite Pattern 🌳](https://dev.to/wecasa/binary-decision-tree-in-ruby-say-hello-to-composite-pattern-h8n)
 - [Why Kernel#times is slower than while ???](https://dev.to/pimp_my_ruby/if-you-want-your-ruby-application-to-be-efficient-keep-it-updated-37k0)
 - [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/pimp_my_ruby/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
 - [What is the fastest way to remove data using Rails ?](https://dev.to/pimp_my_ruby/speed-vs-security-navigating-data-deletion-strategies-in-rails-1a1k)
 - [The Simplest Guide on Ruby Methods Arguments](https://dev.to/pimp_my_ruby/the-simplest-guide-on-ruby-methods-arguments-25pk)
-- [3 Chain of Responsibility implementations that will make you fall in love with this pattern](https://dev.to/pimp_my_ruby/3-chain-of-responsibility-implementations-that-will-make-you-fall-in-love-with-this-pattern-2kfa)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
