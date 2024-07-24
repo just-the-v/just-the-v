@@ -22,7 +22,7 @@
 
 &nbsp;
 
-<h3 align="left">My last 5 articles:</h3>
+<h3 align="left">My last 10 articles:</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [9 things that 🚨Rubocop🚨 don’t want you to use](https://dev.to/pimp_my_ruby/9-things-that-rubocop-dont-want-you-to-use-pb1)
