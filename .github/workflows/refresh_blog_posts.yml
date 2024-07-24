@@ -2,8 +2,8 @@ name: Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour from 10 through 23 on Wednesday.
-    - cron: "0 10-23 * * 3"
+    # Runs every day at midnight
+    - cron: "0 0 * * *"
 permissions:
   contents: write
   
