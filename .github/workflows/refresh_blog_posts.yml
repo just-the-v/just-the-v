@@ -2,8 +2,8 @@ name: Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    # Runs every day at midnight
-    - cron: "0 0 * * *"
+    # Runs every day at 12:00
+    - cron: "0 12 * * *"
 permissions:
   contents: write
   
@@ -17,4 +17,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/pimp_my_ruby"
           # Maximum number of posts you want
-          max_post_count: 5
+          max_post_count: 10
