@@ -25,6 +25,7 @@
 <h3 align="left">My last 10 articles:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [The easiest guide to generate PDF📜 using Prawn in your Rails project](https://dev.to/pimp_my_ruby/the-easiest-guide-to-generate-pdf-using-prawn-in-your-rails-project-oh3)
 - [9 things that 🚨Rubocop🚨 don’t want you to use](https://dev.to/pimp_my_ruby/9-things-that-rubocop-dont-want-you-to-use-pb1)
 - [Everything you needed to know about respond_to 🔎](https://dev.to/pimp_my_ruby/everything-you-needed-to-know-about-respondto-2511)
 - [Binary Decision Tree in Ruby ? Say hello to Composite Pattern 🌳](https://dev.to/wecasa/binary-decision-tree-in-ruby-say-hello-to-composite-pattern-h8n)
@@ -34,7 +35,6 @@
 - [The Simplest Guide on Ruby Methods Arguments](https://dev.to/pimp_my_ruby/the-simplest-guide-on-ruby-methods-arguments-25pk)
 - [3 Chain of Responsibility implementations that will make you fall in love with this pattern](https://dev.to/pimp_my_ruby/3-chain-of-responsibility-implementations-that-will-make-you-fall-in-love-with-this-pattern-2kfa)
 - [Stop this, use this instead : Top 5 best practices in Ruby to reduce &quot;if&quot; in your code](https://dev.to/pimp_my_ruby/stop-this-use-this-instead-top-5-best-practices-in-ruby-to-reduce-if-in-your-code-2hfj)
-- [Pimp My Code : Come and Clean Code with V #1](https://dev.to/pimp_my_ruby/pimp-my-code-come-and-clean-code-with-v-1-3c4p)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
