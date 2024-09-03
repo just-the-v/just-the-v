@@ -25,6 +25,7 @@
 <h3 align="left">My last 10 articles:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [🚩Effortless Feature Management in Rails : A Guide to Using Flipper with Active Admin](https://dev.to/pimp_my_ruby/effortless-feature-management-in-rails-a-guide-to-using-flipper-with-active-admin-51b4)
 - [Make your Rails App Configurable in 4 Ways](https://dev.to/pimp_my_ruby/make-your-rails-app-configurable-in-4-ways-h5k)
 - [The easiest guide to generate PDF📜 using Prawn in your Rails project](https://dev.to/pimp_my_ruby/the-easiest-guide-to-generate-pdf-using-prawn-in-your-rails-project-oh3)
 - [9 things that 🚨Rubocop🚨 don’t want you to use](https://dev.to/pimp_my_ruby/9-things-that-rubocop-dont-want-you-to-use-pb1)
@@ -34,7 +35,6 @@
 - [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/pimp_my_ruby/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
 - [What is the fastest way to remove data using Rails ?](https://dev.to/pimp_my_ruby/speed-vs-security-navigating-data-deletion-strategies-in-rails-1a1k)
 - [The Simplest Guide on Ruby Methods Arguments](https://dev.to/pimp_my_ruby/the-simplest-guide-on-ruby-methods-arguments-25pk)
-- [3 Chain of Responsibility implementations that will make you fall in love with this pattern](https://dev.to/pimp_my_ruby/3-chain-of-responsibility-implementations-that-will-make-you-fall-in-love-with-this-pattern-2kfa)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
