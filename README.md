@@ -25,6 +25,7 @@
 <h3 align="left">My last 10 articles:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Handbook to migrate your Postgres from Heroku to Kamal](https://dev.to/pimp_my_ruby/handbook-to-migrate-your-postgres-from-heroku-to-kamal-1792)
 - [Deploy your Preprod and Production Rails Application using Kamal](https://dev.to/pimp_my_ruby/deploy-your-preprod-and-production-rails-application-using-kamal-139i)
 - [📩My journey to send 100 mails to 500k effortlessly📩](https://dev.to/pimp_my_ruby/my-journey-to-send-100-mails-to-500k-effortlessly-1ne7)
 - [🚩Effortless Feature Management in Rails : A Guide to Using Flipper with Active Admin](https://dev.to/pimp_my_ruby/effortless-feature-management-in-rails-a-guide-to-using-flipper-with-active-admin-51b4)
@@ -34,7 +35,6 @@
 - [Everything you needed to know about respond_to 🔎](https://dev.to/pimp_my_ruby/everything-you-needed-to-know-about-respondto-2511)
 - [Binary Decision Tree in Ruby ? Say hello to Composite Pattern 🌳](https://dev.to/wecasa/binary-decision-tree-in-ruby-say-hello-to-composite-pattern-h8n)
 - [Why Kernel#times is slower than while ???](https://dev.to/pimp_my_ruby/if-you-want-your-ruby-application-to-be-efficient-keep-it-updated-37k0)
-- [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/pimp_my_ruby/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
