@@ -40,6 +40,7 @@
 &nbsp;
 
 <h3 align="left">My talks:</h3>
+
 - [Scalability 101](https://www.youtube.com/watch?v=c4_2WswMq38)
 - [Dry-Monads](https://www.youtube.com/watch?v=oazdZLJse2Y)
 
