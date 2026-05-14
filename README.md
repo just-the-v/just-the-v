@@ -39,6 +39,12 @@
 
 &nbsp;
 
+<h3 align="left">My talks:</h3>
+- [Scalability 101](https://www.youtube.com/watch?v=c4_2WswMq38)
+- [Dry-Monads](https://www.youtube.com/watch?v=oazdZLJse2Y)
+
+&nbsp;
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img align="center" src="https://skillicons.dev/icons?i=ruby,rails,redis,bots,docker,heroku,firebase,gcp,git,github,gitlab,mysql,postgres,sqlite,postman,stackoverflow,discord,solidity,bash,c,vue,vite,react,tailwind,html,js,css&theme=dark" alt="skills" /> 
